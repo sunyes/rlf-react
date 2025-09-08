@@ -1,21 +1,30 @@
-# React + TypeScript + Vite
+# 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+项目编号: 7545829555785793832
 
-While this project uses React, Vite supports many popular JS frameworks. [See all the supported frameworks](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
+本项目是由 [网站开发专家](https://space.coze.cn/) 创建.
 
-## Deploy Your Own
+[**项目地址**](https://space.coze.cn/task/7545829555785793832)
 
-Deploy your own Vite project with Vercel.
+## 本地开发
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/framework-boilerplates/vite-react&template=vite-react)
+### 环境准备
 
-_Live Example: https://vite-react-example.vercel.app_
+- 安装 [Node.js](https://nodejs.org/en)
+- 安装 [pnpm](https://pnpm.io/installation)
 
-### Deploying From Your Terminal
+### 操作步骤
 
-You can deploy your new Vite project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
+- 安装依赖
 
-```shell
-$ vercel
+```sh
+pnpm install
 ```
+
+- 启动 Dev Server
+
+```sh
+pnpm run dev
+```
+
+- 在浏览器访问 http://localhost:3000
